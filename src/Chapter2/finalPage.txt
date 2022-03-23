@@ -1,0 +1,6 @@
+we learned commit---> push
+
+and
+
+remote--->local
+pul/update 
